@@ -1,7 +1,7 @@
 # VagrantNotes
 
 lsb_release -a
-=======================================
+----------------------------------------
 yogeshp@ubuntu16:~/VagrantNotes$ lsb_release -a
 No LSB modules are available.
 Distributor ID: Ubuntu
@@ -11,7 +11,7 @@ Codename:       xenial
 yogeshp@ubuntu16:~/VagrantNotes$
 
 additional commands
-=======================================
+----------------------------------------
 sudo apt-get update
 sudo apt-get install vagrantapt-cache show vagrant
 clear
